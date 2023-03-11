@@ -50,3 +50,11 @@ aside {
         height: 230px;
         width: 400px;
 }
+
+a:hover{
+    color:#820b0b;
+}
+
+header {
+    text-align: center;
+}
