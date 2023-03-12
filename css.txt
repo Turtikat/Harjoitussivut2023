@@ -7,7 +7,6 @@ body {background: rgb(110, 165, 241);
     border:1px solid gray;
     flex-direction: column;
     height: fit-content;
-    text-align: center;
 
 }
 
